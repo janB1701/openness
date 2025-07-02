@@ -1,0 +1,12 @@
+# Ignore build artifacts anywhere
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# OS files
+Thumbs.db
+Desktop.ini
